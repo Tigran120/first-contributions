@@ -41,6 +41,7 @@
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - wdbrk
 - Manuel MG
+- Tigran Khachaturyan
 - [Anish Dusad](https://github.com/anishDusad)
 - SkMave
 - [Sandip Patel)](https://github.com/slotify-dev)
